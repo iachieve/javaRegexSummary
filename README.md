@@ -25,3 +25,7 @@
 ![What are Java Regular Expressions and how to use pattern class?](./Readme/006.jpg)
 ![What are Java Regular Expressions and how to use pattern class?](./Readme/007.jpg)
 ---
+
+##### How to write a regex to validate the username?
+![How to write a regex to validate the username?](./Readme/008.jpg)
+---
