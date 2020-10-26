@@ -15,4 +15,8 @@
 
 ##### What are Regex quantifiers and examples?
 ![What are Regex quantifiers and examples?](./Readme/004.jpg)
+
+
+##### What are the String methods which support Java Regex?
+![What are the String methods which support Java Regex?](./Readme/005.jpg)
 ---
