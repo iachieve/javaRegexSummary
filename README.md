@@ -29,3 +29,14 @@
 ##### How to write a regex to validate the username?
 ![How to write a regex to validate the username?](./Readme/008.jpg)
 ---
+
+
+##### How to write a regex to validate the password?
+![How to write a regex to validate the password?](./Readme/009.jpg)
+---
+
+##### How to write a regex to validate the image name?
+![How to write a regex to validate the image name?](./Readme/010.jpg)
+---
+
+
