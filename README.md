@@ -20,3 +20,8 @@
 ##### What are the String methods which support Java Regex?
 ![What are the String methods which support Java Regex?](./Readme/005.jpg)
 ---
+
+##### What are Java Regular Expressions and how to use pattern class?
+![What are Java Regular Expressions and how to use pattern class?](./Readme/006.jpg)
+![What are Java Regular Expressions and how to use pattern class?](./Readme/007.jpg)
+---
