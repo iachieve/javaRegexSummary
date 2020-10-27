@@ -39,4 +39,8 @@
 ![How to write a regex to validate the image name?](./Readme/010.jpg)
 ---
 
+##### How to write a regex to validate the IP Address?
+![How to write a regex to validate the IP Address?](./Readme/011.jpg)
+---
+
 
