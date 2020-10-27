@@ -54,4 +54,12 @@
 ![HHow to write a regex to validate the 12-hour time format?](./Readme/013.jpg)
 ---
 
+##### Summary?
+![Summary](./Readme/014.jpg)
+![Summary](./Readme/015.jpg)
+![Summary](./Readme/016.jpg)
+![Summary](./Readme/017.jpg)
+![Summary](./Readme/018.jpg)
+---
+
 
