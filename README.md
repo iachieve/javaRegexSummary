@@ -44,3 +44,14 @@
 ---
 
 
+##### HHow to write a regex to validate the 12-hour time format?
+![HHow to write a regex to validate the 12-hour time format?](./Readme/012.jpg)
+---
+
+
+##### HHow to write a regex to validate the 12-hour and 24-hour time format?
+![HHow to write a regex to validate the 12-hour time format?](./Readme/012.jpg)
+![HHow to write a regex to validate the 12-hour time format?](./Readme/013.jpg)
+---
+
+
